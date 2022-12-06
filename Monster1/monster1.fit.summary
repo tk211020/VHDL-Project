@@ -1,0 +1,10 @@
+Fitter Status : Successful - Thu Jun 07 20:04:16 2018
+Quartus II Version : 7.2 Build 203 02/05/2008 SP 2 SJ Web Edition
+Revision Name : monster1
+Top-level Entity Name : monster1
+Family : FLEX10KA
+Device : EPF10K30ATC144-3
+Timing Models : Final
+Total logic elements : 120 / 1,728 ( 7 % )
+Total pins : 35 / 102 ( 34 % )
+Total memory bits : 0 / 12,288 ( 0 % )
